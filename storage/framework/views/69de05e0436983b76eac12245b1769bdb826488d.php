@@ -1,0 +1,1 @@
+SOY EL LOGIN<?php /**PATH /home/vagrant/proyectos_laravel/videoclub/resources/views/auth/login.blade.php ENDPATH**/ ?>
